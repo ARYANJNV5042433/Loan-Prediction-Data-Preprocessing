@@ -11,9 +11,9 @@ Group Practical Assignment
 ## Group Member
 
 - **Aayushi Sonkar** — CSJMA23001390001,
-- **Aryan Kumar — CSJMA23001390011,
-- **Sahil Kumar Yadav — CSJMA23001390038,
-- **Shubhash Verma — CSJMA23001390042
+- **Aryan Kumar** — CSJMA23001390011,
+- **Sahil Kumar Yadav** — CSJMA23001390038,
+- **Shubhash Verma**— CSJMA23001390042
 
 ## Project Overview
 
