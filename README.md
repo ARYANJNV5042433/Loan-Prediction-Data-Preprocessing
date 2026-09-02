@@ -154,7 +154,7 @@ Library functions were used where appropriate to verify the manually calculated 
 
 ## Files in This Repository
 
-- `MIAsignment (3).ipynb` — Complete Google Colab notebook containing the implementation, outputs, visualizations, and interpretations.
+- `loan prediction colab .ipynb` — Complete Google Colab notebook containing the implementation, outputs, visualizations, and interpretations.
 - `loan_prediction.csv` — Loan Prediction Dataset.
 
 ## How to Run
